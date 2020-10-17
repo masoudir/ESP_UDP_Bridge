@@ -87,27 +87,27 @@ At first you need "moserial" software in order to send and receive serial messag
 # Configure parameters
 Total parameters with their descriptions are listed below:
 
-* `WiFi Mode` - Determines the mode STA (Station) or AP (Access Point)
+* `WiFi Mode` - Determines the mode "STA" (Station) or "AP" (Access Point)
 
-* `AP SSID` - Access Point SSID for your ESP (this parameter will be used if your ESP is in AP mode)
+* `AP SSID` - Access Point SSID for your ESP (this parameter will be used if your ESP is in "AP" mode)
 
-* `AP Password` - Access Point SSID for your ESP (this parameter will be used if your ESP is in AP mode)
+* `AP Password` - Access Point SSID for your ESP (this parameter will be used if your ESP is in "AP" mode)
 
-* `WiFi Channel` - 
+* `WiFi Channel` - WiFi channel
 
-* `Station SSID` - 
+* `Station SSID` - SSID name of your router (this parameter will be used if your ESP is in "STA" mode)
 
-* `Station Password` - 
+* `Station Password` - Password of your router (this parameter will be used if your ESP is in "STA" mode)
 
-* `Station IP` - 
+* `Station IP` - Local IP address of your IP (this parameter will be used if your ESP is in "STA" mode)
 
-* `Station Gateway` - 
+* `Station Gateway` - Gateway address of your IP (this parameter will be used if your ESP is in "STA" mode)
 
-* `Station Subnet` - 
+* `Station Subnet` - Subnetwork address of your IP (this parameter will be used if your ESP is in "STA" mode)
 
-* `Client Port` - 
+* `Client Port` - Bridge UDP port
 
-* `Baudrate` - 
+* `Baudrate` - Serial baudrate
 
 ## Root page
 The default local IP address of ESP in this project in "AP" mode is "192.168.1.1", but if your ESP is in "STA" mode, you have to find its IP with mentioned softwares. For accessing to root page, just type this address on your browser (Suppose that if your ESP IP address is "192.168.43.79" while in "STA" mode):
