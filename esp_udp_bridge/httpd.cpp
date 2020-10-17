@@ -203,7 +203,7 @@ void handle_getParameters()
             message += Param_getAt(i)->id;
             message += "</td>";
             message += "<td>";
-            if(getWifiMode == WIFI_MODE_AP)
+            if(getWifiMode() == WIFI_MODE_AP)
             {
                 message += "AP (Access Point)";
             }
