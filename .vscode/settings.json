@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp",
+        "functional": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "random": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "*.inc": "cpp",
+        "memory": "cpp"
+    }
+}

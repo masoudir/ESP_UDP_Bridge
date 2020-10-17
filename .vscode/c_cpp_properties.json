@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\ASUS\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\ASUS\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.3\\**",                
+                ".\\main\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
